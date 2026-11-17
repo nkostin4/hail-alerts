@@ -8,8 +8,8 @@ Both weather reports indicate the presence of hail, abbreviated `GR` (from the F
 
 | **Code** | **Meaning** |
 | --- | --- |
-| - | light intensity |
-| + | heavy intensity |
+| `-` | light intensity |
+| `+` | heavy intensity |
 | `VC` | in the vicinity |
 | `TS` | thunderstorm |
 | `SH` | shower(s) |
