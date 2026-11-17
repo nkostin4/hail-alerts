@@ -10,9 +10,9 @@ Both weather reports indicate the presence of hail, abbreviated `GR` (from the F
 | --- | --- |
 | - | light intensity |
 | + | heavy intensity |
-| VC | in the vicinity |
-| TS | thunderstorm |
-| SH | shower(s) |
+| `VC` | in the vicinity |
+| `TS` | thunderstorm |
+| `SH` | shower(s) |
 | `GR` | hail |
 | `GS` | small hail and/or snow pellets |
 
